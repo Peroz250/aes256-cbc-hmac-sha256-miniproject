@@ -1,0 +1,8 @@
+build/
+out/
+outputs/
+*.class
+.idea/
+*.iml
+.agents/
+.qodo/

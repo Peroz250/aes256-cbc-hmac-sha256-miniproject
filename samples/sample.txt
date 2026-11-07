@@ -1,0 +1,1 @@
+﻿File encryption test for AES-256 CBC with HMAC.
